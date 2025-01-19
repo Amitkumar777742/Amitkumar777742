@@ -1,6 +1,6 @@
 <h4 align="left">Hi 👋! My name is Amitkumar Singh and I'm a FullStack Developer  from India<br><br>
 ### 👨‍💻 About Me  <br>- 🔭 Currently working on **MERN-Stack projects** and expanding my expertise in full-stack development.  <br>- 🌱 Learning **Vite**, **Node.js**, and enhancing my knowledge in **AI/ML**.  <br>- 💼 Previously worked as a **Frontend Developer Intern** at [Hayward Synthesis]and **Baskethunt**.  <br>- 🛠️ Skills: **ReactJS**, **JavaScript**, **HTML5**, **CSS3**, **WordPress**, and **Git**.  <br><br>
-### 📫 Let's Connect  <br>- 🌐 [Portfolio Website](#) *(https://myportfolioamit.netlify.app)*  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/amitkumarsingh7742/)  <br>- 📧 Email: your:-amitksingh9323@gmail.com</h4>
+### 📫 Let's Connect  <br>- 🌐 [Portfolio Website](#) *(myportfolioamit.netlify.app)*  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/amitkumarsingh7742/)  <br>- 📧 Email: your:-amitksingh9323@gmail.com</h4>
 
 ###
 
@@ -8,10 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amitkumar777742&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amitkumar777742&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"  />
 
 ###
 
@@ -61,6 +57,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg"  />
 
 ###
 
