@@ -1,6 +1,6 @@
-<h4 align="left">Hi 👋! My name is Amitkumar Singh and I'm a FullStack Developer  from India<br><br>
+<h5 align="left">Hi 👋! My name is Amitkumar Singh and I'm a FullStack Developer  from India<br><br>
 ### 👨‍💻 About Me  <br>- 🔭 Currently working on **MERN-Stack projects** and expanding my expertise in full-stack development.  <br>- 🌱 Learning **Vite**, **Node.js**, and enhancing my knowledge in **AI/ML**.  <br>- 💼 Previously worked as a **Frontend Developer Intern** at [Hayward Synthesis]and **Baskethunt**.  <br>- 🛠️ Skills: **ReactJS**, **JavaScript**, **HTML5**, **CSS3**, **WordPress**, and **Git**.  <br><br>
-### 📫 Let's Connect  <br>- 🌐 [Portfolio Website](#) *(myportfolioamit.netlify.app)*  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/amitkumarsingh7742/)  <br>- 📧 Email: your:-amitksingh9323@gmail.com</h4>
+### 📫 Let's Connect  <br>- 🌐 [Portfolio Website](#) *(https://myportfolioamit.netlify.app/)*  <br>- 💼 [LinkedIn](https://www.linkedin.com/in/amitkumarsingh7742/)  <br>- 📧 Email: your:-amitksingh9323@gmail.com</h5>
 
 ###
 
