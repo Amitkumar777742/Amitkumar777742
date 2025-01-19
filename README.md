@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/amitkumarsingh7742/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="amitksingh9323@gmail.com" target="_blank">
+  <a href=[Email Me](mailto:amitksingh9323@gmail.com) target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -27,7 +27,7 @@
 
 <p align="left">Hi 👋! My name is Amitkumar Singh and I'm a FullStack Developer from India<br><br>
 ### 👨‍💻 About Me<br>- 🔭 Currently working on **MERN-Stack projects** and expanding my expertise in full-stack development.<br>- 🌱 Learning **Vite**, **Node.js**, and enhancing my knowledge in **AI/ML**.<br>- 💼 Previously worked as a **Frontend Developer Intern** at [Hayward Synthesis]and **Baskethunt**.<br>- 🛠️ Skills: **ReactJS**, **JavaScript**, **HTML5**, **CSS3**, **WordPress**, and **Git**.<br><br>
-### 📫 Let's Connect<br>- 🌐 [Portfolio Website](#) *https://myportfolioamit.netlify.app/*<br>- 💼 [LinkedIn](https://www.linkedin.com/in/amitkumarsingh7742/)<br>- 📧 Email: your:-amitksingh9323@gmail.com</p>
+### 📫 Let's Connect<br>- 🌐 [Portfolio Website](#) https://myportfolioamit.netlify.app/ <br>- 💼 [LinkedIn](https://www.linkedin.com/in/amitkumarsingh7742/)<br>- 📧 Email: your:-amitksingh9323@gmail.com</p>
 
 ###
 
